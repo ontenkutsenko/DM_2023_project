@@ -1,0 +1,23 @@
+## 2 December
+
+-Introduction to how we are going to work
+	-First we will work on our own different notebooks. 
+	-On meetings we will discuss and merge important code or ideas to a new notebook. 
+
+-Key Points
+	- We are not using binary variables for now as we can use them later for customer strategies. 
+	- Delete this variables and only leave Continous variables for now. 
+	- For Durations there is a lot of people getting to 0. 
+	- After checking with last time of visit and creating a filter we decrease the number of 0. 
+	- Duration, dates, as last visit, visits are key values we can use. 
+	- Add new variables, like recency which was calculated by the last date in general with last date of people.
+	- Frecuency also. 
+	- There are some correlations we can look on.
+
+Next Meeting (December 9 at 11 am):
+	- Check all values,
+	- Data Cleaning
+	- Create more variables that might be useful, new ideas. 
+	
+
+
