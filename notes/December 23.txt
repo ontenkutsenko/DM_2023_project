@@ -1,0 +1,35 @@
+1. First we talk on how we will divide the clusters algorithm 
+	Partitial Kmean          || Devora
+	DBSCAN Mean Shift        || David
+	Self Organizing Masp     || Anton
+	Hierarchical algorithm   || Anton
+	Fuzzy Mean               || David
+	Evolutionary             || Maybe see later
+	Gaussian Mixture Model   || We discuss in class check later
+	Spectral Clustering      || Skip as complicated, not talked in class
+	Affinity Propagation     || Skip as complicated, not talked in class
+	BIRCH                    || Looks easy might see it later.
+	OPTICS                   || Looks easy might see it later.
+	Kmean medoids            || is same as K mean but with medoids.
+
+2. Organize the Jupyter Notebook.
+	- There are parts that are disorganized in the notebook. 
+	- For example, have in order the sections as there is missing values and some graphs between this two. 
+	- Create Functions to make it easier repetitive tasks // look into this later as creating graphs might vary between algorithm
+
+3. We have a problem with Duration. 
+	- Although we created the variable duration by seen when it started and last day visits, that doesnt garantees that the user didnt take breaks between the duration, or if its actually all the time the user stays. 
+	- To correct this it was used the days allowed by sla. 
+ 	- It create a percentage out of the quantile 95, As the 99 for examples might be outliers. 
+	- So its the days of sla / the days of sla quantile 95. 
+	- this is done to normalize this and create a percentage of how much the person is going.
+	- We are deciding if either multiplying or dividing, As this si a percentage of days. 
+
+4. NEXT MEETING NEXT FRIDAY IN THE AFTERNOON.
+	- Have clustering algorithm and check the results that we got.  
+
+
+
+
+
+
