@@ -1,0 +1,30 @@
+4th Jan
+- devora: Intro and data preparation 
+- david: data exploration
+- anton : outlier and missing values. 
+
+Clustering: 
+
+anton will add devoras 
+david add hierarchal 
+anton finish SOM.
+
+Decided on the sub features:
+
+'RealNumberOfVisits', 'NumberOfRenewals',
+'NumberOfFrequencies', 'AttendedClasses',
+'EnrollmentDuration',  'Recency',
+'ClassesPerVisit', 'LastPeriodVisitingActivity'
+
+'Age', 'Income', 'LifetimeValue', 
+'CostOfDay', 'CostOfVisit',
+
+Deleting RealNumberOfVisits. 
+
+
+Normal clustering me:
+sub features anton. 
+If time david will go results. 
+
+Results and explanation after the 4th. 
+Try to finish until the 6th.
