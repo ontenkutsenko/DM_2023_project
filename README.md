@@ -1,4 +1,4 @@
-# Dara Mining project (Nova IMS 2023)
+# Data Mining project (Nova IMS 2023)
 
 This project will leverage the dataset provided by the company’s ERP system, which includes a
 wealth of customer-related data, collected between June 1st 2014 and October 31st 2019. The
