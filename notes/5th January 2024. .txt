@@ -1,18 +1,21 @@
-5th January 2024. 
 
--Finish Clusters algorithms in doc
-	--Talk about procedures clusters David
-	-- BIRCH David
-	-- Optics Anton
--Finsih the sub sets of features.  -- Anton
--Create TSNE - David
-	--UMP -Anton
+1. Clustering Metrics // 3 Metrics write about them. 
+	-Sillhoutte.  - David
+	-2 - Anton
+	-3 - Anton
+2. Models
+	1.Approaches, if we used R2, bic // Modify to actual approaches. 
+	-Optics- Anton
+	-SOM Anton
+3. Results
+	-Comparing models - I will
+	-choosing best model.
+	-implement binary on our results.
+4. Interpretations of clusters. 
+	-Devora
+5. Marketing // Tomorrow. 
+	-Devora
 
+6 pm 6 january. 
+-Hopefully everything doen except abstract and conclusion if not done we work on it. 
 
-6th January 2024  (Possibly in morning) Then afternoon
-- Finish all what was before 
-- Finish results.  -- Devora.
-- Clusters profiling (Results) -- Devora
-- Finish Marketing. Discussion on the 6th 
-
-7Th minor changes
