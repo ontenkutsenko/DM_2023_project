@@ -1,0 +1,21 @@
+
+1. Clustering Metrics // 3 Metrics write about them. 
+	-Sillhoutte.  - David
+	-2 - Anton
+	-3 - Anton
+2. Models
+	1.Approaches, if we used R2, bic // Modify to actual approaches. 
+	-Optics- Anton
+	-SOM Anton
+3. Results
+	-Comparing models - I will
+	-choosing best model.
+	-implement binary on our results.
+4. Interpretations of clusters. 
+	-Devora
+5. Marketing // Tomorrow. 
+	-Devora
+
+6 pm 6 january. 
+-Hopefully everything doen except abstract and conclusion if not done we work on it. 
+
